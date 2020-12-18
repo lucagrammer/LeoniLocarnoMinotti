@@ -18,7 +18,7 @@ The Design document (DD) must contain a functional description of the system, an
 ## The solution
 - The RASD can be found in the [RASD folder](https://github.com/lucagrammer/LeoniLocarnoMinotti/tree/main/RASD).
 - The DD can be found in the [DD folder](https://github.com/lucagrammer/LeoniLocarnoMinotti/tree/main/DD). 
-- DeliveryFolder contains the final version of each document.
+- [DeliveryFolder](https://github.com/lucagrammer/LeoniLocarnoMinotti/tree/main/DeliveryFolder) contains the final version of each document.
 
 ## Authors
 - Luca Leoni ([@lucaleoni7](https://github.com/lucaleoni7))
