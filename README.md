@@ -25,4 +25,4 @@ The Design document (DD) must contain a functional description of the system, an
 - Silvia Locarno ([@silvialocarno](https://github.com/silvialocarno))
 - Luca Minotti ([@lucagrammer](https://github.com/lucagrammer))
 
-Final score: 30L/30L
+#### Final score: 30L/30L
